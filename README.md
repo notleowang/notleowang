@@ -1,8 +1,11 @@
+<head>
 <style>
 body {
   font-family: Tahoma, sans-serif;
 }
 </style>
+</head>
+<body>
 
 <div align="center">
     <h2> 
