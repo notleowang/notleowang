@@ -1,16 +1,20 @@
-### Hi there 👋
+<style>
+body {
+  font-family: Tahoma, sans-serif;
+}
+</style>
 
-<!--
-**NotLeoWang/notleowang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h2> 
+        Welcome to my Github Page
+    </h2>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+    Hello, my name is Leo Wang <br>
+    I am currently a student studying Mathematics at the <b>University Of British Columbia</b>.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=notleowang" alt="NotLeoWang's Github Stats">
+</div>
