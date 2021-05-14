@@ -6,10 +6,10 @@
 
 <div align="center">
     Hello, my name is Leo Wang <br>
-    I am currently a student studying Mathematics at the <b>University Of British Columbia</b>.
+    I am currently a student studying Mathematics at the <b>University Of British Columbia
 </div>
-
-</b>
+    
+<br>
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=notleowang" alt="NotLeoWang's Github Stats">
