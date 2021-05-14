@@ -9,6 +9,8 @@
     I am currently a student studying Mathematics at the <b>University Of British Columbia</b>.
 </div>
 
+</b>
+
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=notleowang" alt="NotLeoWang's Github Stats">
 </div>
