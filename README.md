@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p>I am currently learning web development: front-end (HTML & CSS) and back-end (Ruby), so that I can create my own website to showcase some sort of portfolio.</p>
+    <p>I am currently learning web development: front-end (HTML, CSS, JS) and back-end (Ruby), so that I can create my own website to showcase some sort of portfolio.</p>
 </div>
 
 <br>
