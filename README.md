@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-    <p> Hello, my name is <b>Leo Wang</b> <br> I am currently a student studying Mathematics at the <b>University Of British Columbia</b> </p>
+    <p> Hello, my name is <b>Leo Wang</b> <br> I am currently a student studying Computer Science at the <b>University Of British Columbia</b> </p>
 </div>
 
 <div>
-    <p> <b>Languages:</b> Java; JavaScript; C; C++; C#; Ruby; HTML; CSS; LaTeX <br> <b>Softwares:</b> MATLAB; AWS Cloud9 </p>
+    <p> <b>Languages:</b> Java; JavaScript; C; C++; C#; Ruby; HTML; CSS; Sass; LaTeX <br> <b>Softwares:</b> MATLAB; AWS Cloud9 </p>
 </div>
 
 <div>
