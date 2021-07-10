@@ -16,7 +16,7 @@
     <h2>
         About me
     </h2>
-    <p>I am curious in the field of renewable energy and sustainibility. I believe it will become a huge portion of the future and has outstanding value for the advancing of humanity. I also have some interests in AI and machine-learning. On my spare time, I enjoy playing video games and sports, specifically ultimate frisbee. I also like photography and videography.</p>
+    <p>I am curious in the field of renewable energy and sustainability. I believe it will become a huge portion of the future and has outstanding value for the advancing of humanity. I also have some interests in AI and machine-learning. On my spare time, I enjoy playing video games and sports, specifically ultimate frisbee. I also like photography and videography.</p>
     <p>I have numerous years of experience in Adobe programs such as Photoshop, Lightroom, Illustrator, Premiere Pro, etc. All of my knowledge comes from self-learning through online-tools and just playing around a lot. I use these programs a lot when I want to create something fun, or when I need to create a poster for some marketing, or when I need to edit photos. For fun, I have made pc/mobile wallpapers, drawn, clips and montages of playing video games with friends. I find most of my joy from these.</p>
     <p>As of right now, I am still being exposed to the vast amount of different fields in computer science and am still unsure of which specific path I wish to pursue. Although I am unsure, I am confident that no matter which field I go in, I will enjoy it and succeed in my tasks. </p>
 </div>
