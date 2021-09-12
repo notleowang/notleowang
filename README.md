@@ -8,8 +8,13 @@
     <p> Hello, my name is <b>Leo Wang</b> <br> I am currently a student studying Computer Science at the <b>University Of British Columbia</b> </p>
 </div>
 
+Programming Languages: Java, JavaScript, C#, C++, C, Assembly, Ruby
+Web Design: HTML, CSS, Sass, UI/UX Design
+Analysis: R, MATLAB, Excel
+Tools: Git/Github, JUnit, GDB, LaTeX, Unity, AWS Cloud9 
+
 <div>
-    <p> <b>Languages:</b> Java; JavaScript; C; C++; C#; Ruby; HTML; CSS; Sass; LaTeX <br> <b>Softwares:</b> MATLAB; </p>
+    <p> <b>Languages:</b> Java; JavaScript; C; C++; C#; Assembly; Ruby; HTML; CSS; Sass; LaTeX <br> <b>Web Design:</b> HTML, CSS, Sass, UI/UX Design; <br> <b>Analysis:</b> R; MATLAB, Excel <br> <b>Tools:</b> Git/Github, JUnit, GDB, LaTeX, Unity, AWS Cloud9 </p>
 </div>
 
 <div>
