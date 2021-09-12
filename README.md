@@ -9,7 +9,7 @@
 </div>
 
 <div>
-    <p> <b>Languages:</b> Java; JavaScript; C; C++; C#; Ruby; HTML; CSS; Sass; LaTeX <br> <b>Softwares:</b> MATLAB; AWS Cloud9 </p>
+    <p> <b>Languages:</b> Java; JavaScript; C; C++; C#; Ruby; HTML; CSS; Sass; LaTeX <br> <b>Softwares:</b> MATLAB; </p>
 </div>
 
 <div>
