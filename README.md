@@ -26,6 +26,7 @@
         What I'm doing right now
     </h2>
     <ul>
+        <li>In school learning database systems, ER models, logical database design, and SQL.</li>
         <li>I am currently deciding which front-end framework to use for my portfolio website to improve functionality and design. Leaning towards Angular.</li>
         <li>Trying to become more proficient in CSS (and Sass).</li>
         <li>Stopped working on my discord-bot project to focus on my portfolio. Still eager to create an economy system.</li>
