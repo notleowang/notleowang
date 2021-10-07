@@ -9,7 +9,7 @@
 </div>
 
 <div>
-    <p> <b>Languages:</b> Java, JavaScript, C, C++, C#, Assembly, Ruby <br> <b>Web Design:</b> HTML, CSS, Sass, UI/UX Design <br> <b>Analysis:</b> R; MATLAB, Excel <br> <b>Tools:</b> Git/Github, JUnit, GDB, LaTeX, Unity, AWS Cloud9 </p>
+    <p> <b>Languages:</b> Java, JavaScript, C, C++, C#, HTML/CSS, Sass <b>Analysis:</b> R; MATLAB, Excel <br> <b>Tools:</b> Git/Github, JUnit, GNU Debugger, LaTeX, Unity </p>
 </div>
 
 <div>
