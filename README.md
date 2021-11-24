@@ -1,4 +1,4 @@
-<div align="center">Cancel changes
+<div align="center">
     <h2> 
         Welcome to my Github Page!
     </h2>
