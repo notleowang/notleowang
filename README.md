@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-    <p> Hello, my name is <b>Leo Wang</b> <br> I am currently a student studying Computer Science at the <b>University Of British Columbia</b> </p>
+    <p> Hello, my name is <b>Leo Wang</b><br>
+<!--     <p> I am a third year student studying Computer Science at the <b>University Of British Columbia</b></p> -->
+    I am a Software Engineer Intern at Voronoi Health Analytics</p>
 </div>
 
 <div>
@@ -24,11 +26,10 @@
         What I'm doing right now
     </h2>
     <ul>
-        <li>In school learning database systems, ER models, logical database design, and SQL.</li>
-        <li>I am currently deciding which front-end framework to use for my portfolio website to improve functionality and design. Leaning towards Angular.</li>
+        <li>Working full time as an intern at Voronoi Health Analytics as a Software Engineer in Medical Imaging.</li>
+<!--         <li>I am currently deciding which front-end framework to use for my portfolio website to improve functionality and design. Leaning towards Angular.</li>
         <li>Trying to become more proficient in CSS (and Sass).</li>
-        <li>Stopped working on my discord-bot project to focus on my portfolio. Still eager to create an economy system.</li>
-        <li>Recently accepted into my school's internship program and am actively learning how to apply for co-op jobs in September.</li>
+        <li>Stopped working on my discord-bot project to focus on my portfolio. Still eager to create an economy system.</li> -->
     </ul>
 </div>
 
