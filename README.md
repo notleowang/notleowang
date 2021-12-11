@@ -41,4 +41,5 @@
 
 [![](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square)](https://www.linkedin.com/in/leowangubc/)
 [![](https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square)](https://twitter.com/NotLeoWang)
+[![](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square)](https://www.twitch.tv/notleowang/)
 [![](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square)](https://www.youtube.com/channel/UCRfvwifW3TthUnQwS53ruWQ)
