@@ -18,7 +18,12 @@
     <h2>
         About me
     </h2>
-    <p>I am curious in the field of renewable energy and sustainability. I have always wanted to create a positive impact and with the growing issue of climate change, sustainability stood out to me. I also have some interests in AI and machine-learning. On my spare time, I enjoy playing video games and sports, specifically ultimate frisbee. I also like photography and videography.</p>
+    ♻️ Sustainability <br>
+    🤖 AI/Machine Learning <br>
+    🎮 Gamer <br>
+    📷 Photographer [@leowangfotos](https://www.instagram.com/leowangfotos) <br>
+    ⚪ Ultimate Frisbee <br>
+    <!--     <p>I am curious in the field of renewable energy and sustainability. I have always wanted to create a positive impact and with the growing issue of climate change, sustainability stood out to me. I also have some interests in AI and machine-learning. On my spare time, I enjoy playing video games and sports, specifically ultimate frisbee. I also like photography and videography.</p> -->
 </div>
 
 <div>
