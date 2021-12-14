@@ -23,7 +23,7 @@
 
 <div>
     <h2>
-        What I'm doing right now
+        What's going on
     </h2>
     <ul>
         <li>Working full time as an intern at Voronoi Health Analytics as a Software Engineer in Medical Imaging.</li>
