@@ -33,13 +33,9 @@
         What's going on
     </h2>
     <ul>
-        <li>Working full time as an intern at Voronoi Health Analytics as a Software Engineer in Medical Imaging.</li>
+        <li>Studying full time as a Computer Science Student.</li>
         <li>Applying for an Exchange Program to study at the National University Of Singapore (NUS) for a semester.</li>
         <li>Working on a website portfolio.</li>
-        <li>Creating a "Setup for Success at UBC" blog dedicated to my younger siblings.</li>
-<!--         <li>I am currently deciding which front-end framework to use for my portfolio website to improve functionality and design. Leaning towards Angular.</li>
-        <li>Trying to become more proficient in CSS (and Sass).</li>
-        <li>Stopped working on my discord-bot project to focus on my portfolio. Still eager to create an economy system.</li> -->
     </ul>
 </div>
 
