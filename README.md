@@ -20,7 +20,7 @@
     </h2>
     <p>
         ♻️ Sustainability <br>
-        🤖 AI/Machine Learning <br>
+        ⌨️ Mechanical Keyboards <br>
         🎮 Gamer <br>
         ⚪ Ultimate Frisbee <br>
         📷 <a target="_blank" href="https://www.instagram.com/leowangfotos">@leowangfotos</a> <br>
