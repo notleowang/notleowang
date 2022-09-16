@@ -7,7 +7,6 @@
 <div align="center">
     <p> Hello, my name is <b>Leo Wang</b><br>
 <!--     <p> I am a third year student studying Computer Science at the <b>University Of British Columbia</b></p> -->
-    I am a Software Engineer Intern at Voronoi Health Analytics</p>
 </div>
 
 <div>
