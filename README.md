@@ -1,38 +1,24 @@
-<h2> 
-    Hey there :)
-</h2>
+### :lion: Hey there :)
 
-<p>
-Hi, my name is <b>Leo</b> and I am a computer science student in Canada.
-<br>
+Hi, my name is **Leo** and I am a computer science student in Canada.
 
-<div>
-    <p> <b>Languages:</b> Java, JavaScript, C, C++, HTML/CSS, Sass <br> <b>Analysis:</b> R; MATLAB, Excel <br> <b>Tools:</b> Git/Github, JUnit, GNU Debugger, LaTeX, Unity </p>
-</div>
+**Languages:** Java, JavaScript, C, C++, HTML/CSS, Sass \
+**Analysis:** R; MATLAB, Excel \
+**Tools:** Git/Github, JUnit, GNU Debugger, LaTeX, Unity
 
+### :seedling: Interests
+- Sustainability :recycle: \
+- Mechanical :keyboard: \
+- Gamer :video_game: \
+- Ultimate Frisbee :white_circle:
 
-<h2>
-    Interests
-</h2>
-<p>
-    ♻️ Sustainability <br>
-    ⌨️ Mechanical Keyboards <br>
-    🎮 Gamer <br>
-    ⚪ Ultimate Frisbee <br>
-</p>
+### :eyes: What's going on
+- Studying full time as a Computer Science Student.
+- Prospective exchange student at the National University Of Singapore (NUS) for a semester.
+- Working on a website portfolio.
 
-<h2>
-    What's going on
-</h2>
-<ul>
-    <li>Studying full time as a Computer Science Student.</li>
-    <li>Applying for an Exchange Program to study at the National University Of Singapore (NUS) for a semester.</li>
-    <li>Working on a website portfolio.</li>
-</ul>
-
-<h2>
-    Contact
-</h2>
+### :envelope: Contact
+You can reach me via email here: leowangmessages@gmail.com
 
 [![](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square)](https://www.linkedin.com/in/notleowang/)
 [![](https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square)](https://twitter.com/NotLeoWang)
