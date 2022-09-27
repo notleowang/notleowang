@@ -2,9 +2,9 @@
 
 Hi, my name is **Leo** and I am a computer science student in Canada.
 
-**Languages:** Java, JavaScript, C, C++, HTML/CSS, Sass \
-**Analysis:** R; MATLAB, Excel \
-**Tools:** Git/Github, JUnit, GNU Debugger, LaTeX, Unity
+### :balloon: Experiences
+- **Software Engineer Intern at Voronoi Health Analytics** > Backend development on the DAFS Engineering team.
+- **Game Developer at UBC Game Development Club** > Full-stack development on the UI/UX programming team.
 
 ### :seedling: Interests
 - Sustainability :recycle:
