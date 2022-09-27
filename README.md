@@ -8,7 +8,7 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 
 ### :seedling: Interests
 - Sustainability :recycle:
-- Mechanical keyboards :keyboard:
+- Mechanical Keyboards :keyboard:
 - Gamer :video_game:
 - Ultimate Frisbee :white_circle:
 
