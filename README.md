@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-Hi, my name is <b>Leo Wang</b> and I am a computer science student in Canada.
+Hi, my name is <b>Leo</b> and I am a computer science student in Canada.
 <br>
 
 <div>
