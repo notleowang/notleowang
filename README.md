@@ -7,10 +7,10 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 - **Game Developer at UBC Game Development Club** > Full-stack development on the UI/UX programming team.
 
 ### :seedling: Interests
+- Gaming :video_game:
 - Sustainability :recycle:
-- Mechanical Keyboards :keyboard:
-- Gamer :video_game:
 - Ultimate Frisbee :white_circle:
+- Mechanical Keyboards :keyboard:
 
 ### :eyes: What's going on
 - Studying full time as a Computer Science Student.
