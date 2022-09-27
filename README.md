@@ -7,9 +7,9 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 **Tools:** Git/Github, JUnit, GNU Debugger, LaTeX, Unity
 
 ### :seedling: Interests
-- Sustainability :recycle: \
-- Mechanical :keyboard: \
-- Gamer :video_game: \
+- Sustainability :recycle:
+- Mechanical :keyboard:
+- Gamer :video_game:
 - Ultimate Frisbee :white_circle:
 
 ### :eyes: What's going on
