@@ -15,11 +15,11 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 ### :eyes: What's going on
 - Studying full-time as a Computer Science Student.
 - Incoming exchange student at the National University Of Singapore (NUS) for a semester.
-- Working on a website portfolio.
 
 ### :envelope: Contact
 You can reach me via email here: leowangmessages@gmail.com
 
+[![](https://img.shields.io/badge/-Website-orange?style=flat-square)](https://notleowang.github.io/)
 [![](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square)](https://www.linkedin.com/in/notleowang/)
 [![](https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square)](https://twitter.com/NotLeoWang)
 [![](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square)](https://www.twitch.tv/notleowang/)
