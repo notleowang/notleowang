@@ -14,7 +14,7 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 
 ### :eyes: What's going on
 - Studying full-time as a Computer Science Student.
-- Prospective exchange student at the National University Of Singapore (NUS) for a semester.
+- Incoming exchange student at the National University Of Singapore (NUS) for a semester.
 - Working on a website portfolio.
 
 ### :envelope: Contact
