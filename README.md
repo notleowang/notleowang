@@ -13,7 +13,7 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 - Mechanical Keyboards :keyboard:
 
 ### :eyes: What's going on
-- Studying full-time as a Computer Science Student.
+- Job searching for a position in Summer 2023.
 - Incoming exchange student at the National University Of Singapore (NUS) for a semester.
 
 ### :envelope: Contact
