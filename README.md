@@ -11,6 +11,7 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 - Sustainability :recycle:
 - Ultimate Frisbee :white_circle:
 - Mechanical Keyboards :keyboard:
+- Content Creation :film_projector:
 
 ### :eyes: What's going on
 - Job searching for a position in Summer 2023.
