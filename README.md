@@ -14,7 +14,7 @@ Hi, my name is **Leo** and I am a computer science student in Canada.
 
 ### :eyes: What's going on
 - Job searching for a position in Summer 2023.
-- Incoming exchange student at the National University Of Singapore (NUS) for a semester.
+- Studying as an exchange student at the National University Of Singapore (NUS) for a semester.
 
 ### :envelope: Contact
 You can reach me via email here: leowangmessages@gmail.com
