@@ -1,6 +1,6 @@
 ### :lion: Hey there :)
 
-Hi, my name is **Leo** and I am a computer science student in Canada.
+Hi, my name is **Leo** and I am a computer science student based in Vancouver, Canada.
 
 ### :balloon: Experiences
 - **Software Engineer Intern at Voronoi Health Analytics** > Backend development on the DAFS Engineering team.
