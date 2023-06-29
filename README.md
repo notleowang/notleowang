@@ -14,7 +14,7 @@ Hi, my name is **Leo** and I am a computer science student based in Vancouver, C
 - Content Creation :film_projector:
 
 ### :eyes: What's going on
-- Working a summer term at Voronoi Health Analytics.
+- Currently working full-time at Voronoi Health Analytics.
 - Developing summer project ideas.
 
 ### :envelope: Contact
