@@ -11,7 +11,7 @@ Hi, my name is **Leo** and I am a computer science student based in Vancouver, C
 - Sustainability :recycle:
 - Ultimate Frisbee :white_circle:
 - Mechanical Keyboards :keyboard:
-- Content Creation :film_projector:
+- Streaming and Content Creation :film_projector:
 
 ### :eyes: What's going on
 - Currently working full-time at Voronoi Health Analytics.
