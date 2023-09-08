@@ -14,7 +14,8 @@ Hi, my name is **Leo** and I am a computer science student based in Vancouver, C
 - Streaming and Content Creation :film_projector:
 
 ### :eyes: What's going on
-- Currently working full-time at Voronoi Health Analytics.
+- In my last year of studying graduating April 2024.
+- Learning Machine Learning.
 - Developing summer project ideas.
 
 ### :envelope: Contact
