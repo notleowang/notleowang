@@ -16,7 +16,6 @@ Hi, my name is **Leo** and I am a computer science student based in Vancouver, C
 ### :eyes: What's going on
 - In my last year of studying, graduating April 2024.
 - Learning Machine Learning.
-- Developing summer project ideas.
 
 ### :envelope: Contact
 You can reach me via email here: leowangmessages@gmail.com
