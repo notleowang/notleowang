@@ -9,7 +9,7 @@ Hi, my name is **Leo** and I am a computer science student based in Vancouver, C
 ### :seedling: Interests
 - Gaming :video_game:
 - Sustainability :recycle:
-- Artificial Intelligence: :robot:
+- Artificial Intelligence :brain:
 - Ultimate Frisbee :white_circle:
 - Mechanical Keyboards :keyboard:
 - Streaming and Content Creation :film_projector:
