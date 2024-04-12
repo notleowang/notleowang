@@ -8,6 +8,8 @@ Hi, my name is **Leo** and I am a Computer Science New Graduate based in Vancouv
 
 ### :seedling: Interests
 - Gaming :video_game:
+- Hiking :mountain:
+- Coffee :coffee:
 - Sustainability :recycle:
 - Artificial Intelligence :brain:
 - Ultimate Frisbee :white_circle:
