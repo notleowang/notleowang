@@ -13,7 +13,6 @@ Hi, my name is **Leo** and I am a Computer Science New Graduate based in Vancouv
 - Sustainability :recycle:
 - Machine Learning :brain:
 - Ultimate Frisbee :white_circle:
-- Mechanical Keyboards :keyboard:
 - Streaming and Content Creation :film_projector:
 
 ### :eyes: What's going on
