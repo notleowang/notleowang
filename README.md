@@ -15,6 +15,11 @@ Hi, my name is **Leo** and I am a Computer Science New Graduate based in Vancouv
 - Looking for New Grad SWE or ML position.
 - Personal projects/research in machine learning
 
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css)](https://skillicons.dev)
+
+<!--
 ### :envelope: Contact
 You can reach me via email here: leowangmessages@gmail.com
 
@@ -23,3 +28,4 @@ You can reach me via email here: leowangmessages@gmail.com
 [![](https://img.shields.io/badge/-Twitter-1C9CEA?style=flat-square)](https://twitter.com/notleowang)
 [![](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square)](https://www.twitch.tv/notleowang/)
 [![](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square)](https://www.youtube.com/channel/UCRfvwifW3TthUnQwS53ruWQ)
+-->
