@@ -3,7 +3,7 @@
 Hi, my name is **Leo** and I am a Computer Science New Graduate based in Vancouver, Canada.
 
 ### :balloon: Experiences
-- **Software Engineer Intern at Voronoi Health Analytics** > Backend development on the DAFS Engineering team.
+- **Software Engineer at Voronoi Health Analytics** > Backend development on the DAFS Engineering team.
 - **Game Developer at UBC Game Development Club** > Full-stack development on the UI/UX programming team.
 
 ### :seedling: Interests
