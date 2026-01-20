@@ -1,6 +1,6 @@
 ### :lion: Hey there :)
 
-Hi, my name is **Leo** and I am a Computer Science New Graduate based in Vancouver, Canada.
+Hi, my name is **Leo** and I am a Computer Science Graduate based in Vancouver, Canada.
 
 ### :balloon: Experiences
 - **Software Engineer at Voronoi Health Analytics** > Backend development on the DAFS Engineering team.
