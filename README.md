@@ -12,8 +12,7 @@ Hi, my name is **Leo** and I am a Computer Science Graduate based in Vancouver, 
 - Streaming and Content Creation :film_projector:
 
 ### :eyes: What's going on
-- Looking for New Grad SWE or ML position.
-- Personal projects/research in machine learning
+- Looking for a Junior SWE Position
 
 <br>
 
