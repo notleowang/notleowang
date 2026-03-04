@@ -4,7 +4,7 @@ Hi, my name is **Leo** and I am a Computer Science Graduate based in Vancouver, 
 
 ### :balloon: Experiences
 - **Software Developer for BonAppawtite** > Developing automation tools and services for a local business.
-- **Software Engineer at Voronoi Health Analytics** > Backend development on the DAFS Engineering team.
+- **Software Engineer at Voronoi Health Analytics** > Backend development on our flagship software.
 - **Game Developer at UBC Game Development Club** > Full-stack development on the UI/UX programming team.
 
 ### :seedling: Hobbies
