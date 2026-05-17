@@ -1,6 +1,6 @@
 ### :lion: Hey there :)
 
-Hi, my name is **Leo** and I am a Computer Science Graduate based in Vancouver, Canada.
+Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 
 ### :balloon: Experiences
 - **Software Developer for BonAppawtite** > Developing automation tools and services for a local business.
