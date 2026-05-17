@@ -3,9 +3,9 @@
 Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 
 ### :balloon: Experiences
-- **Software Developer for BonAppawtite** > Developing automation tools and services for a local business.
-- **Software Engineer at Voronoi Health Analytics** > Backend development on our flagship software.
-- **Game Developer at UBC Game Development Club** > Full-stack development on the UI/UX programming team.
+- **Software Developer @ BonAppawtite** > Developing automation tools and services for a local business.
+- **Software Engineer @ Voronoi Health Analytics** > Backend development on our flagship software.
+- **Game Developer @ UBC Game Development Club** > Full-stack development on the UI/UX programming team.
 
 ### :seedling: Hobbies
 - Coffee :coffee:
