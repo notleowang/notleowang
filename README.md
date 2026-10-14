@@ -12,9 +12,10 @@ Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 - Ultimate Frisbee :white_circle:
 - Streaming and Content Creation :film_projector:
 
+<!--
 ### :eyes: What's going on
 - Looking for an SWE Position
-
+-->
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css)](https://skillicons.dev)
