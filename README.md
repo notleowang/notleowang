@@ -17,9 +17,12 @@ Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 ### :eyes: What's going on
 - Looking for an SWE Position
 -->
-<br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,html,css)](https://skillicons.dev)
+### Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,linux,aws)](https://skillicons.dev)
+
+### Skillset
+[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
 <!--
 ### :envelope: Contact
