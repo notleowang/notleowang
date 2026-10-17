@@ -1,11 +1,9 @@
-### :lion: Hey there :)
+### :lion: Hi I'm Leo
 
-Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
+Learn more about me on my website :)
 
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22photpugelovpbjl7fqlqtgi&count=3&width=400&radius=4&duration=1)](https://open.spotify.com/user/22photpugelovpbjl7fqlqtgi)
-
-My git-bonsai
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+[![Static Badge](https://img.shields.io/badge/Website-%232C3454?style=for-the-badge)](https://www.notleowang.github.io)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/notleowang/)
 
 <!--
 ### :balloon: Experiences
@@ -32,6 +30,13 @@ My git-bonsai
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,latex,md,obsidian)](https://skillicons.dev)
+
+<div align="center">
+  <img src="output/bonsai-growth.gif" width="300" alt="my git-bonsai"/>
+  
+  [![grown with git-bonsai](https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f?style=for-the-badge)](https://github.com/egorthinks/git-bonsai)
+</div>
+
 
 <!--
 ### :envelope: Contact
