@@ -19,10 +19,13 @@ Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 -->
 
 ### Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,linux,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,vscode,ubuntu,linux)](https://skillicons.dev)
 
 ### Skillset
-[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,ts,js,html,css,nodejs,sass,tailwind)](https://skillicons.dev)
+
+### Other
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,latex,md,obsidian)](https://skillicons.dev)
 
 <!--
 ### :envelope: Contact
