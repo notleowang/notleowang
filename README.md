@@ -4,6 +4,9 @@ Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 
 [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22photpugelovpbjl7fqlqtgi&count=3&width=400&radius=4&duration=1)](https://open.spotify.com/user/22photpugelovpbjl7fqlqtgi)
 
+My git-bonsai
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+
 <!--
 ### :balloon: Experiences
 - **Software Engineer @ Improving** > Building software for businesses.
