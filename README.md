@@ -2,6 +2,9 @@
 
 Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22photpugelovpbjl7fqlqtgi&count=3&width=400&radius=4&duration=1)](https://open.spotify.com/user/22photpugelovpbjl7fqlqtgi)
+
+<!--
 ### :balloon: Experiences
 - **Software Engineer @ Improving** > Building software for businesses.
 - **Software Developer @ BonAppawtite** > Developing automation tools and services for a local business.
@@ -13,16 +16,16 @@ Hi, my name is **Leo** and I am a Software Engineer based in Vancouver, Canada.
 - Ultimate Frisbee :white_circle:
 - Streaming and Content Creation :film_projector:
 
-<!--
+
 ### :eyes: What's going on
 - Looking for an SWE Position
 -->
 
-### Dev Tools
+### Development
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,vscode,ubuntu,linux)](https://skillicons.dev)
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,ts,js,html,css,nodejs,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,ts,js,nodejs,html,css,sass,tailwind)](https://skillicons.dev)
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,latex,md,obsidian)](https://skillicons.dev)
