@@ -33,8 +33,10 @@ Learn more about me on my website :)
 
 <div align="center">
   <img src="output/bonsai-growth.gif" width="300" alt="my git-bonsai"/>
-  
+    
   [![grown with git-bonsai](https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f?style=for-the-badge)](https://github.com/egorthinks/git-bonsai)
+  
+  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22photpugelovpbjl7fqlqtgi&count=3&radius=4&duration=1&bg_color=100f0f&text_color=cecdc3&artist_color=6f6e69&meta_color=b7b5ac&accent_color=fccfda&logo_color=fccfda)](https://open.spotify.com/user/22photpugelovpbjl7fqlqtgi)
 </div>
 
 
