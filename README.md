@@ -1,8 +1,6 @@
 ### :lion: Hi I'm Leo
 
-Learn more about me on my website :)
-
-[![Static Badge](https://img.shields.io/badge/Website-%232C3454?style=for-the-badge)](https://notleowang.github.io/)
+[![Static Badge](https://img.shields.io/badge/About%20Me-FCCFDA?style=for-the-badge)](https://notleowang.github.io/)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/notleowang/)
 
 <a href="https://open.spotify.com/user/22photpugelovpbjl7fqlqtgi">
